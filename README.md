@@ -6,7 +6,7 @@ Phần mềm được thiết kế sẽ điều khiển một máy rút tiền t
 ATM sẽ phục vụ một khách hàng tại một thời điểm. Khách hàng sẽ được yêu cầu chèn thẻ ATM và nhập mã PIN (Personal Identification Number) - cả hai thông tin này sẽ được gửi đến ngân hàng để xác thực như một phần của mỗi giao dịch. Sau đó, khách hàng sẽ có thể thực hiện một hoặc nhiều giao dịch.
 
 ## Công cụ
-![alt](/images/tool.jpg)
+![alt](/images/tool.png)
 
 ## Use case
 ![alt](/images/Bank.jpg)
